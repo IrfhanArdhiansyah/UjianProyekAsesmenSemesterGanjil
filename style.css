@@ -112,7 +112,7 @@ body {
 
 .card {
 	justify-items: center;
-	width: 250px;
+	width: 400px;
 	border:  1px solid grey;
 	box-shadow: 0 4px 5px rgba(0, 0, 0, 0.2);
 	background-color:white;
