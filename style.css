@@ -93,7 +93,7 @@ body {
 	color: white;
 }
 
-.contact {
+.contact  {
 	padding: 0 20px 130px;
 	justify-content: space-between;
 	text-align: center;
@@ -144,4 +144,8 @@ body {
 	border-radius: 10px;
 	margin-top: 15px;
 	text-decoration: none;
+}
+
+.card-btn:hover {
+	background-color: #0056b3;
 }
